@@ -1,1 +1,5 @@
-# -vending_machine
+# vending_machine
+
+✔︎ JAVA의 "다형성"까지의 내용을 학습하고, 자판기 프로그램을 구현
+
+► 본인 제외 2명의 조원과 함께 작업 진행
